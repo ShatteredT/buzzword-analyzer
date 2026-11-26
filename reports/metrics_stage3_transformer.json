@@ -1,0 +1,26 @@
+{
+  "accuracy": 0.989821882951654,
+  "macro_f1": 0.989535626797316,
+  "f1_class_0": 0.9878048780487805,
+  "f1_class_1": 0.9912663755458515,
+  "confusion_matrix": [
+    [
+      162,
+      1
+    ],
+    [
+      3,
+      227
+    ]
+  ],
+  "stage": "3_distilbert_finetune",
+  "model_name": "distilbert-base-uncased",
+  "val_macro_f1": 0.9923104446540676,
+  "train_time_sec": 8.852761099988129,
+  "inference_time_sec_per_1000": 0.12069541985244886,
+  "n_params": 66955010,
+  "model_size_kb": 261543.0078125,
+  "n_train": 1837,
+  "n_val": 394,
+  "n_test": 393
+}

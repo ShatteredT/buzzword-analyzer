@@ -1,0 +1,25 @@
+{
+  "accuracy": 0.9974554707379135,
+  "macro_f1": 0.997381623393496,
+  "f1_class_0": 0.9969418960244648,
+  "f1_class_1": 0.9978213507625272,
+  "confusion_matrix": [
+    [
+      163,
+      0
+    ],
+    [
+      1,
+      229
+    ]
+  ],
+  "stage": "1_baseline_tfidf_logreg_normalized",
+  "best_C": 10,
+  "val_macro_f1": 0.9922940014473196,
+  "train_time_sec": 0.02900829998543486,
+  "inference_time_sec_per_1000": 0.011588549659096899,
+  "model_size_kb": 37.75390625,
+  "n_train": 1837,
+  "n_val": 394,
+  "n_test": 393
+}

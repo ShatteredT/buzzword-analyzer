@@ -1,0 +1,62 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Datasets
+data/raw/
+data/processed/
+data/interim/
+data/external/
+data/train/
+data/validation/
+data/test/
+
+# Model artifacts
+checkpoints/
+models/
+weights/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.h5
+*.keras
+
+# Training outputs
+outputs/
+runs/
+wandb/
+mlruns/
+logs/
+tensorboard/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.log
+*.bak

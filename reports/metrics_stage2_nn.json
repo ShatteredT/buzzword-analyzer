@@ -1,0 +1,26 @@
+{
+  "accuracy": 0.9923664122137404,
+  "macro_f1": 0.9921584537721229,
+  "f1_class_0": 0.9908814589665653,
+  "f1_class_1": 0.9934354485776805,
+  "confusion_matrix": [
+    [
+      163,
+      0
+    ],
+    [
+      3,
+      227
+    ]
+  ],
+  "stage": "2_bigru_from_scratch",
+  "val_macro_f1": 0.987184074423446,
+  "train_time_sec": 9.932538599998225,
+  "inference_time_sec_per_1000": 0.014270737938435972,
+  "n_params": 72194,
+  "model_size_kb": 282.0078125,
+  "vocab_size": 344,
+  "n_train": 1837,
+  "n_val": 394,
+  "n_test": 393
+}
