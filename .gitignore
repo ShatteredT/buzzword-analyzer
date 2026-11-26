@@ -65,3 +65,5 @@ desktop.ini
 # Personal documents
 *.docx
 *.pdf
+*.pptx
+.~lock.*
