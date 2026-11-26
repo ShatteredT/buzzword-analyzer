@@ -60,3 +60,8 @@ desktop.ini
 *.tmp
 *.log
 *.bak
+
+
+# Personal documents
+*.docx
+*.pdf
